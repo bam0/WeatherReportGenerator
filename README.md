@@ -1,2 +1,3 @@
 # WeatherReportGenerator
-Python program that calls the OpenWeatherMap API and generates a weather report.
+
+Welcome to the Weather App! This Python program allows users to retrieve current weather data for any location in the United States by providing either the city and state or the zip code. Utilizing the OpenWeatherMap API, the app delivers comprehensive weather reports, including temperature, humidity, pressure, and cloud coverage, in your preferred temperature unit (Kelvin, Celsius, or Fahrenheit). The user-friendly interface guides you through inputs with error handling to ensure seamless navigation. Whether you're planning your day or just curious about the weather, this app has you covered. Simply run the program, and follow the prompts to get started!
