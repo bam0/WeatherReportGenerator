@@ -9,7 +9,7 @@ _wthr = "https://api.openweathermap.org/data/2.5/weather"
 _dir = "http://api.openweathermap.org/geo/1.0/direct"
 _zip = "http://api.openweathermap.org/geo/1.0/zip"
 # API key
-_api_key = "99853b4e0ad8e307dc751f05beca09ce"
+_api_key = "insert_key_here"
 
 # This function checks that the request to the url is successful and returns a boolean value
 def check_request(url, parameters):
